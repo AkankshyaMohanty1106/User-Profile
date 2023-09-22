@@ -1,18 +1,12 @@
 Step 1: Download the Project
-You can download the project in two ways:
 
-Option 1: Download the ZIP file
+Download the ZIP file
 Visit the GitHub repository for your project.
 Click on the "Code" button and select "Download ZIP."
 Extract the downloaded ZIP file to a location of your choice.
 Option 2: Clone the Repository (Advanced)
 If you're familiar with Git, you can clone the repository using the following command:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-react-app.git
-Step 2: Install Node Modules
-Once you have the project on your local machine, navigate to the project directory using your terminal or command prompt. Then, run the following command to install the required Node.js modules:
 
 bash
 Copy code
